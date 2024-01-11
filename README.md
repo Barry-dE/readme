@@ -42,13 +42,13 @@ I currently run the [Cilium](https://cilium.io) and [eBPF](https://ebpf.io) comm
 </div>
 
 ### :fire: GH Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hacktivist123&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Barry-dE&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacktivist123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barry-dE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![Hacktivist123 GitHub stats](https://github-readme-stats.vercel.app/api?username=hacktivist123&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
+[![Hacktivist123 GitHub stats](https://github-readme-stats.vercel.app/api?username=Barry-dE&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
 
 ### :writing_hand: Blog Posts :
 
