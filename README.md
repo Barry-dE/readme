@@ -33,7 +33,7 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scss/scss-original-wordmark.svg" title="Scss" alt="Scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" **alt="Ansible" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" **alt="Go" width="40" height="40"/>
@@ -47,17 +47,10 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 
 
 
-[![Hacktivist123 GitHub stats](https://github-readme-stats.vercel.app/api?username=Barry-dE&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
+[![Baary-dE GitHub stats](https://github-readme-stats.vercel.app/api?username=Barry-dE&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
 
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [On Self Awareness](https://medium.com/@Sheddy_Nathan/on-self-awareness-388066339fa7?source=rss-5d6838035bf------2)
-- [What is GitOps and Why Should Developers Care?](https://blog.getambassador.io/what-is-gitops-and-why-should-developers-care-d0402aa1f733?source=rss-5d6838035bf------2)
-- [How to Build a Deployment Pipeline With Gitlab CI/CD and Cloud Foundry](https://medium.com/cloud-foundry-foundation/how-to-build-a-deployment-pipeline-with-gitlab-ci-cd-and-cloud-foundry-45985a0179c8?source=rss-afc9ec09febd------2)
-- [Approaching Developer Relations in an Open Source Foundation](https://medium.com/cloud-foundry-foundation/approaching-developer-relations-in-an-open-source-foundation-77b1c660bf95?source=rss-afc9ec09febd------2)
-- [How To Deploy a Static Site&lpar;Gatsby&rpar; to Kubernetes With Cloud Foundry](https://medium.com/cloud-foundry-foundation/how-to-deploy-a-static-site-gatsby-to-kubernetes-with-cloud-foundry-ee31b5131c5f?source=rss-afc9ec09febd------2)
-- [How to Deploy a Django App to Kubernetes With Cloud Foundry](https://medium.com/cloud-foundry-foundation/how-to-deploy-a-django-app-to-kubernetes-with-cloud-foundry-5ad332fbe197?source=rss-afc9ec09febd------2)
-- [Deploy a Nodejs App on Cloud Foundry Pt.3 — Hello World to Real World](https://medium.com/cloud-foundry-foundation/deploy-a-nodejs-app-on-cloud-foundry-pt-3-hello-world-to-real-world-888ab83a329c?source=rss-afc9ec09febd------2)
-- [Deploy a NodeJS App on Cloud Foundry Pt. 2 — Services](https://medium.com/cloud-foundry-foundation/deploy-a-nodejs-app-on-cloud-foundry-pt-2-services-33e76ed62be9?source=rss-afc9ec09febd------2)
-<!-- BLOG-POST-LIST:END -->
+- [How DNS Works](https://pipscript.hashnode.dev/dns-understanding-how-the-internets-address-book-works#clkw94ver01vv7invbpnt1qav)
+
