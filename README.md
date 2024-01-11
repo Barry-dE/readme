@@ -1,9 +1,9 @@
 
 <div align="center" id="badges">
-  <a href="https://linkedin.com/in/shedrackakintayo">
+  <a href="https://www.linkedin.com/in/barigbue-nbira-454700192/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="(https://twitter.com/coder_blvck)">
+  <a href="https://twitter.com/PipScript">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
