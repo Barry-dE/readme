@@ -12,18 +12,17 @@
     <img src="https://komarev.com/ghpvc/?username=hacktivist123&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h3 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Shedrack Akintayo! </h3>
+<h3 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Barigbue Nbira </h3>
 
-I love to [write](https://sheddy.xyz), code, and [teach](https://sheddy.xyz/pages/talks).
+I love to [write](https://hashnode.com/@pipScript),  and code .
 
 I'm trying to embrace constant learning, and growing. I'm currently working towards becoming a better version of myself.
 
-I currently run the [Cilium](https://cilium.io) and [eBPF](https://ebpf.io) communities at [Isovalent](https://isovalent.com). At Isovalent, we are working on products for eBPF-based networking, security, and observability.
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning DevOps with Go, Linux, Shell Scripting, Cloud Native Technologies (K8s, Cilium, Terraform)
-- 💬 Ask me about Javascript, Cilium, Technical Writing, Developer Advocacy, and Music 😉
-- ⚡ Fun fact: I can't touch my toes while standing 😆
+- 💬 Ask me about Javascript, DevOps, Technical Writing, and Cooking😉
+- ⚡ Fun fact: I love to take pictures of my friends.😆
 
 ### :hammer_and_wrench: Languages and Tools
 
@@ -33,7 +32,7 @@ I currently run the [Cilium](https://cilium.io) and [eBPF](https://ebpf.io) comm
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" **alt="Ansible" width="40" height="40"/>
