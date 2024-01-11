@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=hacktivist123&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=Barry-dE&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h3 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Barigbue Nbira </h3>
@@ -20,7 +20,7 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
 
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning DevOps with Go, Linux, Shell Scripting, Cloud Native Technologies (K8s, Cilium, Terraform)
+- 🌱 I’m currently taking a deep dive into DevOps and Web Animations.
 - 💬 Ask me about Javascript, DevOps, Technical Writing, and Cooking😉
 - ⚡ Fun fact: I love to take pictures of my friends.😆
 
@@ -34,9 +34,9 @@ I'm trying to embrace constant learning, and growing. I'm currently working towa
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original-wordmark.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" **alt="Ansible" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original.svg" title="AWS" **alt="AWS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" **alt="Go" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
 </div>
